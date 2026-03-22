@@ -2,71 +2,80 @@
 
 ### 💼 About Me
 
-■ Detail-oriented IT Support–focused professional with experience in helpdesk ticket tracking, troubleshooting, and data       management
+- Detail-oriented IT Support–focused professional with experience in helpdesk ticket tracking, troubleshooting, and data management.
 
-■ Skilled in organizing information, resolving user issues, and maintaining accurate records in fast-paced environments
+- Skilled in organizing information, resolving user issues, and maintaining accurate records in fast-paced environments.
 
-■ I enjoy building structured systems that improve efficiency and create smooth support workflows
+- I enjoy building structured systems that improve efficiency and create smooth support workflows.
+
+- This GitHub portfolio showcases hands-on projects that simulate real-world **IT helpdesk and support operations**.
 
 ### 🛠 Skills
 
-■ Helpdesk Support & Ticket Management
+- Helpdesk Support & Ticket Management  
+- Troubleshooting (Login, Network, Email, Software Issues)  
+- User Account Management & Access Control  
+- Excel (Data Tracking, Reports, Dashboards)  
+- Documentation & Knowledge Base Creation  
+- Administrative & Data Support  
 
-■ Troubleshooting (Login, Network, Software Issues)
-
-■ User Account Management & Access Control
-
-■ Excel (Data Tracking, Reports, Dashboards)
-
-■ Documentation & Process Improvement
-
-■ Administrative & Data Support
 
 ### 📂 Featured Projects
 
 #### 🖥️ Helpdesk Ticket System Simulation
+A structured system for tracking and managing IT support tickets, including issue categorization, priority levels, resolution tracking, and reporting dashboards.
 
-■ A structured system to track and manage IT support tickets, including issue categorization, priority levels, and resolution tracking
+Skills demonstrated:
+- Ticket logging and workflow tracking  
+- Data organization and reporting  
+- Helpdesk performance metrics  
+
 
 #### 📘 IT Troubleshooting Knowledge Base
+A technical documentation repository containing step-by-step guides for resolving common IT issues.
 
-■ Step-by-step guides for resolving common technical issues such as password resets, Wi-Fi connectivity, and email problems
+Examples include:
+- Password reset procedures  
+- Wi-Fi connectivity troubleshooting  
+- Email configuration and syncing issues  
 
-#### 👤 User Account Management System
+Skills demonstrated:
+- Technical documentation  
+- Troubleshooting workflows  
+- Knowledge base organization  
 
-■ A simulation of user account creation, access control, and administrative tracking for maintaining secure and organized systems
 
-#### 📊 Helpdesk Dashboard (Excel)
+#### 👤 User Account Management Simulation
+A project simulating common IT administrative tasks related to user accounts.
 
-■ A visual dashboard displaying ticket trends, issue types, and resolution performance using charts and summary metrics
+Includes:
+- User account creation  
+- Password resets  
+- Account unlocking  
+- Permission assignment  
+- Account status reporting  
+
+Skills demonstrated:
+- Identity and access management basics  
+- Administrative procedures  
+- Account data tracking and reporting  
+
 
 ### 🎯 Goals
 
-■ Grow as an IT Support / Helpdesk professional
+- Grow as an IT Support / Helpdesk professional  
 
-■ Gain hands-on experience with real-world systems
+- Continue building hands-on projects that simulate real IT environments  
 
-■ Improve troubleshooting and system efficiency
+- Strengthen troubleshooting, system documentation, and support workflows  
+
 
 ### 📫 Contact
 
-■ Email: nabsa2026@gmail.com
+Email: **nabsa2026@gmail.com**
 
-### ⚡ Fun Fact 
 
-I enjoy solving problems and organizing systems to make processes more efficient and user-friendly
 
-<!--
-**nabeel-saleem-cs/nabeel-saleem-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ Fun Fact
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving technical problems and organizing systems to make processes more efficient and user-friendly.
