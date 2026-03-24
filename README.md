@@ -10,11 +10,11 @@ I specialize in **IT Helpdesk solutions** and **Data Analytics**, combining tech
 
 ### 1. IT Helpdesk Portfolio
 Contains projects demonstrating IT support workflows, troubleshooting documentation, and system simulations.
-[Explore IT Helpdesk Portfolio](https://github.com/YourUsername/it-helpdesk-portfolio)
+[Explore IT Helpdesk Portfolio](https://github.com/nabeel-saleem-cs/IT-helpdesk-portfolio.git)
 
 ### 2. Data Analyst Portfolio
 Contains projects demonstrating data cleaning, visualization, reporting, and basic predictive modeling.
-[Explore Data Analyst Portfolio](https://github.com/YourUsername/data-analyst-portfolio)
+[Explore Data Analyst Portfolio](https://github.com/nabeel-saleem-cs/data-analyst-portfolio.git)
 
 ---
 
