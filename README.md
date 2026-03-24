@@ -24,15 +24,6 @@ Contains projects demonstrating data cleaning, visualization, reporting, and bas
 - **Other Tools:** Git/GitHub, Jupyter Notebooks
 
 ---
-
-### 🎯 Goals
-
-- Grow as an IT Support / Helpdesk professional  
-
-- Continue building hands-on projects that simulate real IT environments  
-
-- Strengthen troubleshooting, system documentation, and support workflows
-
 Feel free to explore my work and connect!
 
 ### 📫 Contact
