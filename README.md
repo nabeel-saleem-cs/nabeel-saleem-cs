@@ -1,65 +1,29 @@
 # Hi, I'm Nabeel 👋
 
-### 💼 About Me
+Welcome to my GitHub profile!
 
-- Detail-oriented IT Support–focused professional with experience in helpdesk ticket tracking, troubleshooting, and data management.
+I specialize in **IT Helpdesk solutions** and **Data Analytics**, combining technical support expertise with analytical problem-solving skills.
 
-- Skilled in organizing information, resolving user issues, and maintaining accurate records in fast-paced environments.
+---
 
-- I enjoy building structured systems that improve efficiency and create smooth support workflows.
+## 🔹 Portfolios
 
-- This GitHub portfolio showcases hands-on projects that simulate real-world **IT helpdesk and support operations**.
+### 1. IT Helpdesk Portfolio
+Contains projects demonstrating IT support workflows, troubleshooting documentation, and system simulations.
+[Explore IT Helpdesk Portfolio](https://github.com/YourUsername/it-helpdesk-portfolio)
 
-### 🛠 Skills
+### 2. Data Analyst Portfolio
+Contains projects demonstrating data cleaning, visualization, reporting, and basic predictive modeling.
+[Explore Data Analyst Portfolio](https://github.com/YourUsername/data-analyst-portfolio)
 
-- Helpdesk Support & Ticket Management  
-- Troubleshooting (Login, Network, Email, Software Issues)  
-- User Account Management & Access Control  
-- Excel (Data Tracking, Reports, Dashboards)  
-- Documentation & Knowledge Base Creation  
-- Administrative & Data Support  
+---
 
+## 🔹 Skills & Tools
+- **IT & Support:** Helpdesk systems, troubleshooting guides, user account management
+- **Data Analysis:** Python (Pandas, Matplotlib, Seaborn, Scikit-learn), Excel, Pivot Tables, Data Visualization
+- **Other Tools:** Git/GitHub, Jupyter Notebooks
 
-### 📂 Featured Projects
-
-#### 🖥️ Helpdesk Ticket System Simulation
-A structured system for tracking and managing IT support tickets, including issue categorization, priority levels, resolution tracking, and reporting dashboards.
-
-Skills demonstrated:
-- Ticket logging and workflow tracking  
-- Data organization and reporting  
-- Helpdesk performance metrics  
-
-
-#### 📘 IT Troubleshooting Knowledge Base
-A technical documentation repository containing step-by-step guides for resolving common IT issues.
-
-Examples include:
-- Password reset procedures  
-- Wi-Fi connectivity troubleshooting  
-- Email configuration and syncing issues  
-
-Skills demonstrated:
-- Technical documentation  
-- Troubleshooting workflows  
-- Knowledge base organization  
-
-
-#### 👤 User Account Management Simulation
-A project simulating common IT administrative tasks related to user accounts.
-
-Includes:
-- User account creation  
-- Password resets  
-- Account unlocking  
-- Permission assignment  
-- Account status reporting  
-
-Skills demonstrated:
-- Identity and access management basics  
-- Administrative procedures  
-- Account data tracking and reporting  
-
+---
 
 ### 🎯 Goals
 
@@ -67,15 +31,13 @@ Skills demonstrated:
 
 - Continue building hands-on projects that simulate real IT environments  
 
-- Strengthen troubleshooting, system documentation, and support workflows  
+- Strengthen troubleshooting, system documentation, and support workflows
 
+Feel free to explore my work and connect!
 
 ### 📫 Contact
 
 Email: **nabsa2026@gmail.com**
 
+LinkedIn: **linkedin.com/in/nabeel-saleem-029894344**
 
-
-### ⚡ Fun Fact
-
-I enjoy solving technical problems and organizing systems to make processes more efficient and user-friendly.
